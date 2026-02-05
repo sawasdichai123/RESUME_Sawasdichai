@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: Inter, sans-serif;
+  --color-slate-850: #1e293b;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-slate-900 text-slate-200 font-sans antialiased;
+  }
+}
