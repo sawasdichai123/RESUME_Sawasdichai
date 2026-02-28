@@ -27,7 +27,7 @@ const Header = () => {
                     </div>
                 </div>
 
-                <div className="flex gap-4">
+                {/* <div className="flex gap-4">
 
                     <a
                         href="https://github.com/sawasdichai123"
@@ -38,7 +38,7 @@ const Header = () => {
                         <Github className="w-4 h-4" />
                         GitHub
                     </a>
-                </div>
+                </div> */}
             </div>
         </header>
     );

@@ -16,9 +16,7 @@ function App() {
         <Education />
       </main>
 
-      <footer className="text-center py-8 text-slate-500 text-sm border-t border-slate-800">
-        <p>© {new Date().getFullYear()} Sawasdichai Amornpradubkool. All rights reserved.</p>
-      </footer>
+
     </div>
   );
 }

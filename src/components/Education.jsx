@@ -48,6 +48,7 @@ const Education = () => {
                         school="Bangkok University"
                         degree="Bachelor of Science in Information Technology"
                         details="School of Information Technology and Innovation"
+                        gpa="3.81"
                     />
 
                     <EducationItem
